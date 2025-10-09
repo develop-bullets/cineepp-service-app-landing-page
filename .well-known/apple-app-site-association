@@ -1,11 +1,25 @@
 {
   "applinks": {
-      "apps": [],
-      "details": [
+    "apps": [],
+    "details": [
       {
-        "appID": "RVKJA4NFPL.com.fernandoherrera.miscelaneos",
-        "paths": ["*"]
+        "appIDs": [
+          "M6VCPRBVDM.kr.co.bullets.miscelaneos"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
       }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "M6VCPRBVDM.kr.co.bullets.miscelaneos"
     ]
   }
 }
